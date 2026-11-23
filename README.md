@@ -1,18 +1,17 @@
 # PLP2026 — Analysis and Reproducibility
 
-Repository for preparing materials associated with the PLP2026 multisensor remote-sensing study.
+## Study Overview
 
-## Planned contents
+## Data and Sensors
 
-- Analysis code and instructions for recreating the study workflow.
-- Software environment and processing documentation.
-- Synthetic example data for demonstrating the methods.
-- Scene identifiers and instructions for obtaining source data from their providers, where appropriate.
+## Methods
 
-## Data access and release status
+## Repository Contents
 
-The repository is under development. No satellite imagery, extracted reflectance tables, field photographs, or research data have been added.
+## Data Access
 
-Sentinel-2, PlanetScope/SuperDove, EnMAP, and PRISMA data are subject to their respective access and reuse conditions. Any materials derived from third-party imagery require review under the applicable agreements before distribution.
+## Citation
 
-The contents, authorship, licenses, and public release date are to be determined.
+## License
+
+## Acknowledgments
