@@ -1,4 +1,4 @@
-# PLP2026 — Analysis and Reproducibility
+# PLP2026 — 
 
 ## Study Overview
 
