@@ -1,6 +1,6 @@
 # PLP2026 — Analysis and Reproducibility
 
-Private working repository for preparing materials associated with the PLP2026 multisensor remote-sensing study.
+Repository for preparing materials associated with the PLP2026 multisensor remote-sensing study.
 
 ## Planned contents
 
