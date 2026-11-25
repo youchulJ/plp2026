@@ -12,11 +12,7 @@ This study examines how the detectability of three small floating plastic target
 
 Field experiment records and photographs are described on the [Plastic Litter Project 2026 website](https://plp.aegean.gr/plastic-litter-project-2026/).
 
-## Code and Data
+## Repository Contents
 
-The code and data are being prepared for release alongside the manuscript.
-
-- **GitHub** — Analysis code for target–water reflectance comparisons, Spectral Angle Mapper (SAM) evaluation, and continuum-removed band depth (CRBD) calculations, with an example using synthetic spectra and instructions for running the code.
-- **Zenodo dataset** — Selected results, including SAM evaluation tables, and a data dictionary. Additional reflectance and CRBD data are under review for release.
-
-Links to the dataset and archived code release will be added when available.
+- **Available:** Study overview and field-site photograph.
+- **Planned:** Analysis code and a synthetic example on GitHub, and selected study data on Zenodo.
